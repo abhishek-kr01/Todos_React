@@ -52,8 +52,3 @@ Component-based architecture
 - **Tailwind CSS** (Styling)
 - **Vite** (Build Tool)
 
-## Future Enhancements
-
-Add a **completed tasks** section  
- Implement **local storage** to persist tasks  
- Add **animations** for better UI
